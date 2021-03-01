@@ -1,7 +1,21 @@
 body{
     background-color: #e8ffff;
+    text-align:center;
 }
 img{
     width: 10%;
     height:auto;
+}
+div{
+    text-align:left;
+}
+#mountain_1{
+    width:80%;
+    height:30%;
+    position:relative;
+    top:300px;
+}
+#first_intro{
+    position: relative;
+    top:250px;
 }
