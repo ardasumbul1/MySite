@@ -1,6 +1,6 @@
 body{
-    text-align:center;
     margin:0;
+    text-align:center;
 }
 img{
     width: 10%;
@@ -18,19 +18,33 @@ img{
     margin-right:0;
 }
 .middle-container{
-    background-color:yellow;
+    background-color:#ffb26b;
     height: 700px;
     
 }
 .bottom-container{
-    background-color:blue;
+    background-color:#f4eeed;
     height: 700px;
 }
 #mountain_1{
     width:80%;
     height:30%;
     position:relative;
-    top:450px;
+    top:453px;
+}
+#mountain_2{
+    width: 80%;
+    height:40%;
+    position: relative;
+    top:420px;
+    right:380px;
+}
+#mountain_3{
+    width: 70%;
+    height:40%;
+    position: relative;
+    top:420px;
+    left:210px;
 }
 #first_intro{
     position: relative;
