@@ -61,3 +61,28 @@ h2{
     top:150px;
     
 }
+#computer-skills{
+    position: absolute;
+    top:950px;
+    right:300px;
+}
+
+#comp-skills-list{
+    position: absolute;
+    font-size: 1.25em;
+    top:1000px;
+    left:800px;
+    text-align:left;
+}
+#lang-skills-list{
+    position: absolute;
+    font-size: 1.25em;
+    top:1300px;
+    left:800px;
+    text-align:left;
+}
+#lang-skills{
+    position: absolute;
+    top:1250px;
+    right:300px;
+}
