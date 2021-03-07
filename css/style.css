@@ -90,19 +90,28 @@ h2{
     position: absolute;
     text-align:left;
     left:120px;
-    top:1600px;
+    top:1650px;
 }
 form{
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 15px;
+    background-color:#cfd3ce;
     position: absolute;
     text-align:left;
     left:120px;
     top:1700px;
 }
 
-#linkedin{
+.logos{
     position: absolute;
-    top:2150px;
+    top:2170px;
     width:70px;
+    height:70px;
     left:120px;
+    display: inline;
 
+}
+#medium{
+    left:220px;
 }
