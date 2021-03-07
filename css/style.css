@@ -9,7 +9,7 @@ img{
 .navbar{
     background-color:#dff3e3;
     text-align:left;
-    height:165px;
+    height:100px;
 }
 .top-container{
     background-color:#e8ffff;
@@ -25,7 +25,7 @@ img{
 }
 .bottom-container{
     background-color:#f4eeed;
-    height: 700px;
+    height: 765px;
 }
 #mountain_1{
     width:80%;
@@ -44,7 +44,7 @@ img{
     width: 70%;
     height:40%;
     position: relative;
-    top:420px;
+    top:460px;
     left:160px;
 }
 #first_intro{
@@ -128,14 +128,14 @@ form{
 
 #cloud1{
     position: absolute;
-    top:580px;
+    top:500px;
     left:450px;
 }
 
 #cloud2{
     position: absolute;
     right:450px;
-    top:450px;
+    top:400px;
 }
 #baloon1{
     position:absolute;
@@ -149,7 +149,7 @@ form{
 }
 #planet1{
     position:absolute;
-    top:1500px;
+    top:1455px;
     left:1050px;
 }
 #planet2{
@@ -162,4 +162,27 @@ form{
     position: absolute;
     top:1900px;
     left:1200px;
+}
+
+#mid_link{
+    position: absolute;
+    top:30px;
+    right:30px;
+    font-size:2em;
+    text-decoration: solid;
+    border:2px solid;
+    padding:10px;
+    border-radius: 10px;
+}
+
+#bottom_link{
+
+    position: absolute;
+    top:30px;
+    right:200px;
+    font-size:2em;
+    text-decoration: solid;
+    border:2px solid;
+    padding:10px;
+    border-radius: 10px;
 }
