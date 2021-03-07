@@ -19,7 +19,7 @@ img{
     text-align:center;
 }
 .middle-container{
-    background-color:#ffb26b;
+    background-color:#ffd4a2;
     height: 700px;
     
 }
@@ -31,7 +31,7 @@ img{
     width:80%;
     height:30%;
     position:relative;
-    top:370px;
+    top:366px;
 }
 #mountain_2{
     width: 80%;
@@ -63,34 +63,44 @@ h2{
 }
 #computer-skills{
     position: absolute;
-    top:950px;
-    right:300px;
+    top:975px;
+    left:800px;
 }
 
 #comp-skills-list{
+    background-color:#f7bb77;
+    border:1px solid;
+    border-radius: 10px;
+    padding:20px;
     position: absolute;
     font-size: 1.25em;
     top:1000px;
     left:800px;
     text-align:left;
+    width:400px;
 }
 #lang-skills-list{
+    background-color:#f7bb77;
+    border-radius: 10px;
+    border:1px solid;
+    padding:20px;
     position: absolute;
     font-size: 1.25em;
     top:1300px;
     left:800px;
     text-align:left;
+    width:400px;
 }
 #lang-skills{
     position: absolute;
-    top:1250px;
-    right:300px;
+    top:1270px;
+    left:800px;
 }
 #contact-h{
     position: absolute;
     text-align:left;
     left:120px;
-    top:1650px;
+    top:1625px;
 }
 form{
     border-radius: 5px;
@@ -100,7 +110,7 @@ form{
     position: absolute;
     text-align:left;
     left:120px;
-    top:1700px;
+    top:1675px;
 }
 
 .logos{
