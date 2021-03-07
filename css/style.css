@@ -125,3 +125,41 @@ form{
 #medium{
     left:220px;
 }
+
+#cloud1{
+    position: absolute;
+    top:580px;
+    left:450px;
+}
+
+#cloud2{
+    position: absolute;
+    right:450px;
+    top:450px;
+}
+#baloon1{
+    position:absolute;
+    top:950px;
+    left:50px;
+}
+#baloon2{
+    position:absolute;
+    top:1150px;
+    left:450px;
+}
+#planet1{
+    position:absolute;
+    top:1500px;
+    left:1050px;
+}
+#planet2{
+    position:absolute;
+    top:1800px;
+    left:600px;
+}
+
+#spaceship{
+    position: absolute;
+    top:1900px;
+    left:1200px;
+}
